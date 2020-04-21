@@ -7,7 +7,7 @@ Experimental simple impedance meter using the STM32F4 Discovery board
 - Terminal emulator program such as TeraTerm [link](https://ttssh2.osdn.jp/index.html.en)
 - STM32 Virtual COM Port Driver from ST Microelectronics [link](https://www.st.com/en/development-tools/stsw-stm32102.html)
 
-## Usage
+## Details
 See [link](https://hackbeacon.blogspot.com/2020/04/simple-impedance-meter-project-with.html)
 
 ## Block diagram
