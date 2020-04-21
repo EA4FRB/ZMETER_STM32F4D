@@ -9,3 +9,6 @@ Experimental simple impedance meter using the STM32F4 Discovery board
 
 ## Usage
 See [link](https://hackbeacon.blogspot.com/2020/04/simple-impedance-meter-project-with.html)
+
+## Block diagram
+![](/pics/ZMETER_STM32F4_BlockDiagram.jpg)
