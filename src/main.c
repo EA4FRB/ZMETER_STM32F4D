@@ -30,7 +30,7 @@
 /* Private define ------------------------------------------------------------*/
 #define MAX_Z_MAG			999999.9
 #define NUM_AVG				8
-#define REFERENCE_R			4740.0
+#define REFERENCE_R			4740.0		/* Adjust to the actual implemented value */
 
 #define LIMIT_MAX_C			999999.99
 #define LIMIT_MAX_L			999999.99

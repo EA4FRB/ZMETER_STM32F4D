@@ -17,7 +17,7 @@
 
 /* Private typedef -----------------------------------------------------------*/
 /* Private define ------------------------------------------------------------*/
-#define HIGH_RES_SIN		1	/* Comment for low resolution sinusoid */
+#define HIGH_RES_SIN		1	/* Comment for low resolution sine wave */
 
 #define DAC_DHR12R1_ADDRESS    0x40007408
 
