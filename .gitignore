@@ -1,3 +1,10 @@
+# Atollic
+.metadata/
+.settings/
+
+# Backup source files
+*.bak
+
 # Prerequisites
 *.d
 
@@ -30,3 +37,9 @@
 *.exe
 *.out
 *.app
+*.hex
+*.bin
+*.map
+*.elf
+
+
